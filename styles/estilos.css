@@ -16,6 +16,27 @@
 }	
 /* ============ desktop view .end// ============ */
 
+/* Estilos Propio*/
+
+hr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 10px;
+    background-color: rgb(73, 73, 73);
+    width:80%;
+    color:gray;
+  }
+
+/* Estilos Propios*/
+
+
+/*Estilos Carousel*/
+
+
+
+/*Estilos Carousel*/
+
 /*===========Footer==========*/
 
 footer {
@@ -23,3 +44,7 @@ footer {
   padding: 3px;
   color: black;
 }
+
+/* Carousel */
+
+
