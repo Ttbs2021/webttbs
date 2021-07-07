@@ -3,8 +3,6 @@
     padding:0px;
 }
 
-
-
 /* ============ desktop view ============ */
 @media all and (min-width: 992px) {
 	.navbar .dropdown-menu-end{ right:0; left: auto;  }
@@ -17,7 +15,6 @@
 /* ============ desktop view .end// ============ */
 
 /* Estilos Propio*/
-
 hr {
     display: block;
     margin-left: auto;
@@ -27,24 +24,24 @@ hr {
     width:80%;
     color:gray;
   }
-
 /* Estilos Propios*/
 
-
-/*Estilos Carousel*/
-
-
-
-/*Estilos Carousel*/
-
 /*===========Footer==========*/
-
 footer {
   text-align: left;
   padding: 3px;
   color: black;
 }
+/*===========Footer==========*/
 
-/* Carousel */
-
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 40px;
+  left: 50px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 21px;
+}
 
